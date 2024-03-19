@@ -14,4 +14,5 @@ namespace ConsoleApp7
         }
     }
 }
+//zovko kralj
 //da
