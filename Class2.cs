@@ -8,5 +8,6 @@ namespace ConsoleApp7
 {
     internal class Class2
     {
+        int a = 1;
     }
 }
